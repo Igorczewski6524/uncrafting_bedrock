@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "uncraft items such as slabs, wood, etc.",
+      "name": "Uncrafting",
+      "uuid": "fe560bab-8a74-4550-a2ce-609468b60934",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+      {
+        "description": "Recipes",
+        "type": "data",
+        "uuid": "82ba822e-a05c-4268-9f4e-8ff6a5169430",
+        "version": [1, 0, 0]
+      }
+    ],
+    "metadata": {
+      "authors": ["Igorczewski6524"],
+      "license": "GPL-3.0"
+      }
+  }
+  
